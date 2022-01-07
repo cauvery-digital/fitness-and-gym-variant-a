@@ -1,8 +1,8 @@
 @charset "UTF-8";
 @font-face {
 	font-family: streamline;
-	src: url(font/streamline.eot);
-	src: url(font/streamline.eot?#iefix) format("embedded-opentype"), url(font/streamline.woff) format("woff"), url(font/streamline.ttf) format("truetype"), url(font/streamline.svg#streamline) format("svg");
+	src: url(fonts/streamline.eot);
+	src: url(fonts/streamline.eot?#iefix) format("embedded-opentype"), url(fonts/streamline.woff) format("woff"), url(fonts/streamline.ttf) format("truetype"), url(fonts/streamline.svg#streamline) format("svg");
 	font-weight: 400;
 	font-style: normal
 }
